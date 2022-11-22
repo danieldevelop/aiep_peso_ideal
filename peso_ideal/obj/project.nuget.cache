@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WgKQO7SnCT1PSa1hWKRN3Ni8Z5ZfS3iGf5hgVsThavfIL+BJPtlJuXbslRxZoBaXmzD1TLBt1w9YX/A1elA5sA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ites_\\OneDrive\\Escritorio\\SUBIDA AL GITHUB CODIGOS\\peso_ideal\\peso_ideal\\peso_ideal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ites_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
